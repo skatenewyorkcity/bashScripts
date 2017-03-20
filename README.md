@@ -1,2 +1,2 @@
 # bashScripts
-Some random bash scripts, a little quit edit
+Some random bash scripts, a little quick edit
