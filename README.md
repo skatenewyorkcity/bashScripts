@@ -1,2 +1,2 @@
 # bashScripts
-Some random bash scripts, a little quick edit
+practicing .bashrc aliases and functions, they execute searches from command line.
